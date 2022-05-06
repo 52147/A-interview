@@ -22,3 +22,35 @@ Best Time to Buy and Sell Stock IV
 
 309	
 Best Time to Buy and Sell Stock with Cooldown
+
+## Search
+1268. Search Suggestions System
+
+
+212(hard)
+Word Search II
+
+79	
+Word Search
+
+642	(hard)
+Design Search Autocomplete System
+
+33	
+Search in Rotated Sorted Array
+
+240	
+Search a 2D Matrix II
+
+211	
+Design Add and Search Words Data Structure
+
+74	
+Search a 2D Matrix
+
+81	
+Search in Rotated Sorted Array II
+
+35	
+Search Insert Position
+
