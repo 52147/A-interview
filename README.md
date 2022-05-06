@@ -3,13 +3,13 @@
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 121	(easy)
-Best Time to Buy and Sell Stock
+Best Time to Buy and Sell Stock (2 pointers)
 
 2110	
-Number of Smooth Descent Periods of a Stock
+Number of Smooth Descent Periods of a Stock (dp)
 
 [901	
-Online Stock Span](https://github.com/52147/Monotonic-Stack/blob/main/src/monotonicstack/StockSpanner.java)
+Online Stock Span(Monotonic Stack)](https://github.com/52147/Monotonic-Stack/blob/main/src/monotonicstack/StockSpanner.java)
 
 122	
 Best Time to Buy and Sell Stock II
