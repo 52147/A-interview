@@ -2,8 +2,8 @@
 ## Stock
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-121	(easy)
-Best Time to Buy and Sell Stock (2 pointers)
+[121	(easy)
+Best Time to Buy and Sell Stock (2 pointers])(https://github.com/52147/A-interview/blob/main/src/stock/BestTimeToBuyAndSellStock.java)
 
 2110	
 Number of Smooth Descent Periods of a Stock (dp)
