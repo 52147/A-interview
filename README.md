@@ -5,8 +5,8 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 [121.	(easy)
 Best Time to Buy and Sell Stock (2 pointers)](https://github.com/52147/A-interview/blob/main/src/stock/BestTimeToBuyAndSellStock.java)
 
-2110.	
-Number of Smooth Descent Periods of a Stock (dp)
+[2110.	
+Number of Smooth Descent Periods of a Stock (dp)](https://github.com/52147/A-interview/blob/main/src/stock/NumberOfSmoothDescentPeriodsOfAStock2110.java)
 
 [901.	
 Online Stock Span(Monotonic Stack)](https://github.com/52147/Monotonic-Stack/blob/main/src/monotonicstack/StockSpanner.java)
