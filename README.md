@@ -2,55 +2,55 @@
 ## Stock
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-121	(easy)
-Best Time to Buy and Sell Stock
+[121.	(easy)
+Best Time to Buy and Sell Stock (2 pointers)](https://github.com/52147/A-interview/blob/main/src/stock/BestTimeToBuyAndSellStock.java)
 
-2110	
-Number of Smooth Descent Periods of a Stock
+[2110.	
+Number of Smooth Descent Periods of a Stock (dp)](https://github.com/52147/A-interview/blob/main/src/stock/NumberOfSmoothDescentPeriodsOfAStock2110.java)
 
-901	
-Online Stock Span
+[901.	
+Online Stock Span(Monotonic Stack)](https://github.com/52147/Monotonic-Stack/blob/main/src/monotonicstack/StockSpanner.java)
 
-122	
-Best Time to Buy and Sell Stock II
+[122.	
+Best Time to Buy and Sell Stock II(one pass)](https://github.com/52147/A-interview/blob/main/src/stock/BestTimeToBuyAndSellStockII122.java)
 
-123	(hard)
+123.	(hard)
 Best Time to Buy and Sell Stock III
 
-188	(hard)
+188.	(hard)
 Best Time to Buy and Sell Stock IV
 
-309	
-Best Time to Buy and Sell Stock with Cooldown
+[309.	
+Best Time to Buy and Sell Stock with Cooldown(dp + state machine)](https://github.com/52147/A-interview/blob/main/src/stock/BestTimeToBuyAndSellStockWithCooldown.java)
 
 ## Search
 1268. Search Suggestions System
 
 
-212(hard)
+212.(hard)
 Word Search II
 
-79	
+79.	
 Word Search
 
-642	(hard)
+642.	(hard)
 Design Search Autocomplete System
 
-33	
+33.	
 Search in Rotated Sorted Array
 
-240	
+240.	
 Search a 2D Matrix II
 
-211	
+211.	
 Design Add and Search Words Data Structure
 
-74	
+74.	
 Search a 2D Matrix
 
-81	
+81.	
 Search in Rotated Sorted Array II
 
-35	
+35.	
 Search Insert Position
 
