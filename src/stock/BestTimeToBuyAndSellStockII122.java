@@ -21,7 +21,7 @@ package stock;
  * 
  * we need not track the costs corresponding to the peaks and valleys along with the maximum profit,
  * we can directly keep on adding the difference between the consecutive number if the second number is larger than the first one.
- * 
+ *      
  * for example:
  *  prices = [7,1,5,3,6,4]
  *  
@@ -46,11 +46,12 @@ public class BestTimeToBuyAndSellStockII122 {
 		
 		int max = 0;
 		
+		// i start with 1 because we has prices[i - 1]
 		for(int i = 1; i < prices.length; i++) {
 			// if the day is larger than the previous day
 			if(prices[i] > prices[i - 1]) {
 				max += prices[i] - prices[i - 1]; // subtract two number and add it to the max
-			}
+			} // calculate the total profit use +=
 		}
 		return max;
 	}

@@ -41,7 +41,7 @@ public class BestTimeToBuyAndSellStock {
 			
 			// otherwise count the price - min to get the max profit
 			}else if(prices[i] - minprice > maxprofit) {
-				maxprofit = prices[i] - minprice;
+				maxprofit = prices[i] - minprice; // need the single day max profit, so do not need to use +=
 			}
 		}
 		

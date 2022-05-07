@@ -69,9 +69,9 @@ public class BestTimeToBuyAndSellStockWithCooldown {
 	
 	public int maxProfit(int[] prices) {
 		
-		int sold = Integer.MIN_VALUE;
-		int held = Integer.MIN_VALUE;
-		int reset = 0;
+		int sold = Integer.MIN_VALUE; // held stste -(sell)-> sold state
+		int held = Integer.MIN_VALUE; // held state -> held state  or reset state -(buy)-> held state
+		int reset = 0; // sold -> reset or reset -> reset
 		
 		for(int price: prices) {
 			int preSold = sold; // the previous state of sold can only be held.

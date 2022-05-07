@@ -32,9 +32,10 @@ public class NumberOfSmoothDescentPeriodsOfAStock2110 {
 	
 	public long getDescentPeriods(int[] prices) {
 		
-		long dp = 1;   
+		// use long not int
+		long dp = 1; // base case dp[0] = 1
 		long ans = 1;
-		
+		// for loop start at index 1 because index is base case dp[0] = 1 prices[0] = 1
 		for(int i = 1; i < prices.length; i++) {
 			if(prices[i] == prices[i - 1] - 1 ) {
 				dp++; // dp[i] = dp[i - 1] + 1;
