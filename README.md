@@ -36,8 +36,8 @@ Word Search(backtracking + dfs)](https://github.com/52147/A-interview/blob/main/
 
 642.	(hard) Design Search Autocomplete System
 
-33.	
-Search in Rotated Sorted Array
+[33.	
+Search in Rotated Sorted Array](https://github.com/52147/A-interview/blob/main/src/binarysearch/SearchInRotatedSortedArray33.java)
 
 240.	
 Search a 2D Matrix II
