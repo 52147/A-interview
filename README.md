@@ -56,8 +56,13 @@ Search Insert Position](https://github.com/52147/A-interview/blob/main/src/binar
 ## 2022 
 SDE L1
 
-| Title | Topic |  Link  |
-| ------------- | ------------- |------------- |
-| 134. Gas Station | https://52147.github.io/CV/  |https://leetcode.com/discuss/interview-question/1906290/Amazon-or-OA |
-| 1648. Sell Diminishing-Valued Colored Balls| https://52147.github.io/True-Friend/ |https://leetcode.com/discuss/interview-question/1906290/Amazon-or-OA |
 
+
+134. Gas Station
+1648. Sell Diminishing-Valued Colored Balls
+1509. Minimum Difference Between Largest and Smallest Value in Three Moves https://leetcode.com/discuss/interview-question/1906290/Amazon-or-OA
+
+ThreeSum (https://leetcode.com/problems/3sum/) - got exactly same question
+PuzzleSolve (https://leetcode.com/problems/course-schedule/) - Similar to course schedule problem where one puzzle is dependant another one to be solved first (prerequiste for solving)
+Trie problem, where letters are in a Matrix. Given a list of words check if we can solve by going up, left, down and right
+Simple HashMap problem where group occurences then sort the Values array.
