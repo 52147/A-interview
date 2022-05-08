@@ -54,9 +54,24 @@ Search in Rotated Sorted Array II](https://github.com/52147/A-interview/blob/mai
 Search Insert Position](https://github.com/52147/A-interview/blob/main/src/binarysearch/SearchInsertPosition35.java)
 
 ## 2022 
+
+summer intern
+Leetcode 1249 (https://www.1point3acres.com/bbs/thread-892273-1-1.html)
+
+fall intern
+
+1. Given two strings String S and String T, find how many characters need to be added to String S to make String T subsequence of S.
+2. In a 2D matrix a cell can either be 0 or 1, with 0 being white and 1 being black. Greyness of a cell is defined as difference of all black cells in the row & col and white cells in row & col the cell belongs to. Given a matrix, return the maximum greyness.
+
+(https://www.1point3acres.com/bbs/thread-892485-1-1.html)
+
+
+1. find data location
+2. find string
+(https://www.1point3acres.com/bbs/thread-892805-1-1.html)
+
+
 SDE L1
-
-
 
 - 134 Gas Station
 - 1648 Sell Diminishing-Valued Colored Balls
