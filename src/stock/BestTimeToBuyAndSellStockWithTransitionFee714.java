@@ -38,8 +38,8 @@ public class BestTimeToBuyAndSellStockWithTransitionFee714 {
 	
 	public int maxProfit(int[] prices, int fee) {
 		
-		int cash = 0;
-		int hold =-prices[0];
+		int cash = 0; // sell the stock
+		int hold =-prices[0]; // buy the stock
 		
 		for(int i = 1; i < prices.length; i++) {
 			cash = Math.max(cash, hold + prices[i] - fee);

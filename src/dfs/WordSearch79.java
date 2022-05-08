@@ -1,4 +1,4 @@
-package binarysearch;
+package dfs;
 /**
  * 
  * 79. Word Search
@@ -130,8 +130,5 @@ public class WordSearch79 {
  *  - The main consumption of the memory lies in the recursion call of the backtracking function. 
  *  - The maximum length of the call stack would be the length of the word. 
  *  - Therefore, the space complexity of the algorithm is O(L).
-
-
-L
- .
+ *
  */
