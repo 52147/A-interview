@@ -77,7 +77,7 @@ Leetcode 1249 (https://www.1point3acres.com/bbs/thread-892273-1-1.html)
 (https://www.1point3acres.com/bbs/thread-886937-1-1.html)
 
 
-### SDE L1
+### SDE 1
 
 - 134 Gas Station
 - 1648 Sell Diminishing-Valued Colored Balls
