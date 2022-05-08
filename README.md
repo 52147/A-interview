@@ -31,11 +31,10 @@ Best Time to Buy and Sell Stock with Cooldown(dp + state machine)](https://githu
 
 212.(hard) Word Search II
 
-79.	
-Word Search
+[79.	
+Word Search(backtracking + dfs)](https://github.com/52147/A-interview/blob/main/src/dfs/WordSearch79.java)
 
-642.	(hard)
-Design Search Autocomplete System
+642.	(hard) Design Search Autocomplete System
 
 33.	
 Search in Rotated Sorted Array
