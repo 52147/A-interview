@@ -58,9 +58,9 @@ SDE L1
 
 
 
-- 134Gas Station
-- 1648Sell Diminishing-Valued Colored Balls
-- 1509Minimum Difference Between Largest and Smallest Value in Three Moves (https://leetcode.com/discuss/interview-question/1906290/Amazon-or-OA)
+- 134 Gas Station
+- 1648 Sell Diminishing-Valued Colored Balls
+- 1509 Minimum Difference Between Largest and Smallest Value in Three Moves (https://leetcode.com/discuss/interview-question/1906290/Amazon-or-OA)
 
 - ThreeSum (https://leetcode.com/problems/3sum/) - got exactly same question
 - PuzzleSolve (https://leetcode.com/problems/course-schedule/) - Similar to course schedule problem where one puzzle is dependant another one to be solved first (prerequiste for solving)
