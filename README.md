@@ -53,10 +53,11 @@ Search in Rotated Sorted Array II](https://github.com/52147/A-interview/blob/mai
 [35.	
 Search Insert Position](https://github.com/52147/A-interview/blob/main/src/binarysearch/SearchInsertPosition35.java)
 
-2022 
+## 2022 
 SDE L1
 
-134. Gas Station
-
-1648. Sell Diminishing-Valued Colored Balls
+| Title | Topic |  Link  |
+| ------------- | ------------- |------------- |
+| 134. Gas Station | https://52147.github.io/CV/  |https://leetcode.com/discuss/interview-question/1906290/Amazon-or-OA |
+| 1648. Sell Diminishing-Valued Colored Balls| https://52147.github.io/True-Friend/ |https://leetcode.com/discuss/interview-question/1906290/Amazon-or-OA |
 
