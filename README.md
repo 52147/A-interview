@@ -26,11 +26,10 @@ Best Time to Buy and Sell Stock with Cooldown(dp + state machine)](https://githu
 [714. Best Time to Buy and Sell Stock with Transaction Fee(dp)](https://github.com/52147/A-interview/blob/main/src/stock/BestTimeToBuyAndSellStockWithTransitionFee714.java)
 
 ## Search
-1268. Search Suggestions System
+[1268. Search Suggestions System](https://github.com/52147/A-interview/blob/main/src/binarysearch/SearchSuggestionSystem1268.java)
 
 
-212.(hard)
-Word Search II
+212.(hard) Word Search II
 
 79.	
 Word Search
