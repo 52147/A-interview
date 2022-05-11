@@ -1,6 +1,8 @@
 
 ## VO
 
+刷blind75，写出8个你觉得你做了很有impact 的事情，给每件事情label 几个 你觉得用到的LP, 然后 写STAR，A 要体现这几个LP.
+
 - 102. Binary Tree Level Order Traversal(recursion bfs)
 - 103. Binary Tree Zigzag Level Order Traversal
 
