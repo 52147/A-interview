@@ -4,9 +4,11 @@
 刷blind75，写出8个你觉得你做了很有impact 的事情，给每件事情label 几个 你觉得用到的LP, 然后 写STAR，A 要体现这几个LP.
 https://www.1point3acres.com/bbs/thread-679738-1-1.html
 
-力扣103，二叉树 BFS，DFS，力扣1644，78，81，对称二叉树，力扣2 56 https://www.1point3acres.com/bbs/thread-857289-1-1.html
+力扣103，二叉树 BFS，DFS，力扣1644，78，81，对称二叉树，力扣2、56 https://www.1point3acres.com/bbs/thread-857289-1-1.html
 - 102. Binary Tree Level Order Traversal(recursion bfs)
 - 103. Binary Tree Zigzag Level Order Traversal
+
+https://www.1point3acres.com/bbs/thread-851657-1-1.html
 
 
 
