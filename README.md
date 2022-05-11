@@ -3,8 +3,12 @@
 
 刷blind75，写出8个你觉得你做了很有impact 的事情，给每件事情label 几个 你觉得用到的LP, 然后 写STAR，A 要体现这几个LP.
 https://www.1point3acres.com/bbs/thread-679738-1-1.html
+
+力扣103，二叉树 BFS，DFS，力扣1644，78，81，对称二叉树，力扣2 56 https://www.1point3acres.com/bbs/thread-857289-1-1.html
 - 102. Binary Tree Level Order Traversal(recursion bfs)
 - 103. Binary Tree Zigzag Level Order Traversal
+
+
 
 
 
@@ -96,3 +100,9 @@ Leetcode 1249 (https://www.1point3acres.com/bbs/thread-892273-1-1.html)
 - PuzzleSolve (https://leetcode.com/problems/course-schedule/) - Similar to course schedule problem where one puzzle is dependant another one to be solved first (prerequiste for solving)
 - Trie problem, where letters are in a Matrix. Given a list of words check if we can solve by going up, left, down and right
 - Simple HashMap problem where group occurences then sort the Values array.
+
+
+
+https://www.1point3acres.com/bbs/thread-715940-1-1.html
+
+https://www.1point3acres.com/bbs/thread-699232-1-1.html
