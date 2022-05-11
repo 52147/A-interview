@@ -79,14 +79,14 @@ Leetcode 1249 (https://www.1point3acres.com/bbs/thread-892273-1-1.html)
 2. find string
 (https://www.1point3acres.com/bbs/thread-892805-1-1.html)
 
-### NG
+### SDE 1 NG
 
 第一题 Pascal Triangle pass 14/14
 第二题 买股票的一题 参考https://www.1point3acres.com/bbs/thread-844884-1-1.html   pass 11/14
 (https://www.1point3acres.com/bbs/thread-886937-1-1.html)
 
 
-### SDE 1
+
 
 - 134 Gas Station
 - 1648 Sell Diminishing-Valued Colored Balls
