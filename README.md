@@ -14,7 +14,7 @@ https://www.1point3acres.com/bbs/thread-851657-1-1.html
 
 102. Binary Tree Level Order Traversal(recursion bfs)
 103. Binary Tree Zigzag Level Order Traversal
-56. Merge Intervals
+56. Merge Intervals (sorting)
 1. Two Sum
 2. Add Two Numbers
 78. Subsets
