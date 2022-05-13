@@ -4,9 +4,16 @@
 刷blind75，写出8个你觉得你做了很有impact 的事情，给每件事情label 几个 你觉得用到的LP, 然后 写STAR，A 要体现这几个LP.
 https://www.1point3acres.com/bbs/thread-679738-1-1.html
 
-力扣103，二叉树 BFS，DFS，力扣1644，78，81，对称二叉树，力扣2、56 https://www.1point3acres.com/bbs/thread-857289-1-1.html
+https://www.1point3acres.com/bbs/thread-857289-1-1.html
 
-力扣146，200变形，567 滑动窗口，62，9
+
+力扣103，二叉树 BFS，DFS，力扣1644，78，81，对称二叉树，力扣2
+力扣146，200变形，567 滑动窗口，62，97，1152，153，Top K，17，
+253，1597，21，力扣20，力扣12，力扣125，完全二叉树节点的复杂度
+力扣129，力扣124，1603，priority queue 怎么实现，underlyilng data
+structure 如何实现？
+力扣133，力扣402，力扣1002，力扣1710，Bfs遍历树 zigzag遍历，力扣
+295，LRU && LFU
 
 
 https://www.1point3acres.com/bbs/thread-851657-1-1.html
