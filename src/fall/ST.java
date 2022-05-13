@@ -19,14 +19,14 @@ public class ST {
 			map1.put(c, map1.getOrDefault(c, 0) + 1);
 		}
 		
-		System.out.println(map1);
+		//System.out.println(map1);
 		
 		
 		for(char c: b1) {
 			map2.put(c, map2.getOrDefault(c, 0) + 1);
 		}
 		
-		System.out.println(map2);
+		//System.out.println(map2);
 		
 		int count = Integer.MAX_VALUE;
 		

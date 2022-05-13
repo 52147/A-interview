@@ -2,21 +2,21 @@ package fall;
 /**
  * 
  * You are given a black & white image in form of m*n pixel matrix grid.
-
-if pixel[i][j] = 0 then pixel is black
-if pixel[i][j] = 1 then pixel is white
-Calculate maximum greyness of image.
-Where greyness of a pixel[i][j] = (number of 1s in ith row + number of 1s in jth column) - (number of 0s in ith row + number of 0s in jth column)
-
-My Aproach:
-
-Calculated the total number of 1s in each row and each column (row_1s array and col_1s array) using simple prefix array
-number of 0s in a row = m - number of 1s
-let number of 1s in ith row is x and number of 1s in jth colum is y then number of 0s in ith row = m - x and number of 0s in jth column = n - y
-greyness = (x + y) - (m - x + n - y) = 2*(x + y) - (m + n)
-used nested for loops to iterate over all pixels and checked for the maximum greyness overall.
-Time Complexity: O(m*n)
-Space Complexity: O(n)
+ *
+ * if pixel[i][j] = 0 then pixel is black
+ * if pixel[i][j] = 1 then pixel is white
+ * Calculate maximum greyness of image.
+ * Where greyness of a pixel[i][j] = (number of 1s in ith row + number of 1s in jth column) - (number of 0s in ith row + number of 0s in jth column)
+ *
+ * My Aproach:
+ *
+ * Calculated the total number of 1s in each row and each column (row_1s array and col_1s array) using simple prefix array
+ * number of 0s in a row = m - number of 1s
+ * let number of 1s in ith row is x and number of 1s in jth colum is y then number of 0s in ith row = m - x and number of 0s in jth column = n - y
+ * greyness = (x + y) - (m - x + n - y) = 2*(x + y) - (m + n)
+ * used nested for loops to iterate over all pixels and checked for the maximum greyness overall.
+ * Time Complexity: O(m*n)
+ * Space Complexity: O(n)
  *
  */
 
