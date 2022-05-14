@@ -29,6 +29,21 @@ https://www.1point3acres.com/bbs/thread-851657-1-1.html
 1644. Lowest Common Ancestor of a Binary Tree II
 
 
+937. Reorder Data in Log Files https://leetcode.com/problems/reorder-data-in-log-files/
+
+## BQ
+BQ questions：
+在面亚麻之前就花了两天准备亚麻的BQ，楼主实在没啥经历，削尖了脑袋勉强想出了几个故事，只准备了以下10个BQ问题。一定要结合亚马逊的Leadership Principle, BQ一定要好好准备，毕竟前15-20分钟都在讲BQ，一定要保证面试官能听懂你在说什么。
+1. Why Amazon
+2. Why choose this position?
+3. Introduce yourself
+4. The biggest mistake you made and what did you learn from it
+5. Most challenging project
+6. Tight Deadline/ miss a deadline
+7. Take more responsibility
+8. Make decision without enough information
+9. Help others / Provide guidance to teammates
+10. Have d
 
 
 ## Stock
