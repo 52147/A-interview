@@ -44,7 +44,7 @@ BQ questions：
 8. Make decision without enough information
 9. Help others / Provide guidance to teammates
 10. Have d
-
+https://www.1point3acres.com/bbs/thread-844215-1-1.html
 
 ## Stock
 This site was built using [GitHub Pages](https://pages.github.com/).
