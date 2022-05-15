@@ -78,7 +78,7 @@ public class BinaryTreeLevelOrderTraversal102 {
 			levels.add(new ArrayList<>());
 		}
 		
-		levels.get(level).add(root.val);
+		 
 		
 		
 		if(root.left != null) {
@@ -94,6 +94,8 @@ public class BinaryTreeLevelOrderTraversal102 {
 	
 	public List<List<Integer>> levelOrder(TreeNode root){
 		
+		// need to check root is null before the bfs function
+		// because if root is null we will get the nullpointerexception at " levels.get(level).add(root.val); "
 		if(root == null) {return levels;} // return [] empty arraylist
 		
 		
