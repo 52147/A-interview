@@ -11,7 +11,7 @@ import java.util.List;
 
 public class FindCommonCharacters1002 {
 	
-	public List<String> commonChars(String[] A){
+    	public List<String> commonChars(String[] A){
 		
 		List<String> ans = new ArrayList<>();
 		
