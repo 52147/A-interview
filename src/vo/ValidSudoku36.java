@@ -49,6 +49,26 @@ import java.util.HashSet;
  * 
  *
  */
+// approach: hash set
+// use hash set to record the previous seen numbers
+// initialize 3 hashset list each contain 9 hash set to record the rows, cols, boxes
+// use 2 nested for loop to traverse the  value in the 2d arry
+// get the value in the 2d array
+// if the value is .
+//  continue
+// if the value is in the row 
+//  return false because is mean it is the second occurrence
+// otherwise add the value in the rows hash set
+// if the value is already in the col
+//   return false
+// otherwise add the value in the cols hash set
+// revert the index that in the box
+// if the value is already in the box
+//   return false
+//  otherwise add the value in the box hash set
+
+
+
 public class ValidSudoku36 {
 	
 	public boolean isValidSudoku(char[][] board) {

@@ -28,6 +28,19 @@ package vo;
  *      and then check if the count for every character is zero.
  *      
  */
+
+
+// valid anagram
+// anagram: a word form by rearranged letter
+// approach: frequency counter
+// if length is not equal reutrn false
+// create a array to count the frequency of each word, the length is 26
+// use a for loop to count the each word in s string
+// use another for loop to decrease the each word in t string
+// and if the value(word frequency) in array is < 0
+//  return false (mean is not the anagram)
+// otherwise is true  
+
 public class ValidAnagram242 {
 	
 	public boolean isAnagram(String s, String t) {
