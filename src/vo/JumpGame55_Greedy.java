@@ -31,19 +31,27 @@ package vo;
  * - It does not matter that nums[0] is big enough to jump all the way to the last index. 
  * - All we need is one way.
  * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
- * 
  *
  */
+
+// greedy approach:
+// iterate right to left
+// we check if there is a potential jump that reaches a GOOD index
+// (currPosition + nums[currPosition] >= leftmostGoodIndex)
+// if we cah reach a good index, then position is good.
+// iterate continues until the beginning of the array.
+// If first position is a good index then we can reach the last index from the first position.
+
+// set a parameter as the nums length to represent the length that need to reach the last index
+// use a for loop to traverse the nums array from the last index
+// if the sum of i(the length from the first index) and nums[i](the length can jump) >= last position
+//    set the last position to i (means if we can reach this i(position) we can reach the end)
+// for loop end
+// if last position is equal to 0 is true
+// is means we can get to the end successfully from the first index
+
+
+
 public class JumpGame55_Greedy {
 	
 	public boolean canJump(int[] nums) {

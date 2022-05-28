@@ -132,4 +132,11 @@ public class LongestSubstingWithoutRepeatingCharacters3 {
  * 
  */
 
+/**
+ * Approach 2:  sliding window(using hash map)
+ * 
+ * time: O(n). index j will iterate n times.
+ * space(hashmap): O(min(m, n)). Same as the 
+ */
+ 
 

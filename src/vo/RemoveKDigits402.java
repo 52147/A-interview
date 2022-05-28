@@ -68,7 +68,7 @@ public class RemoveKDigits402 {
 		        k -= 1;
 		      }
 		      stack.addLast(digit);
-		    }
+		    }    
 		        
 		    /* remove the remaining digits from the tail. */
 		    for(int i=0; i<k; ++i) {

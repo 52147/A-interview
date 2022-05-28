@@ -20,13 +20,23 @@ import java.util.Arrays;
  */
 public class TwoSumCloseToTarget {
 	
+	
+	public static void main(String[] args) {
+        int[] nums = {1, 2, 3, 4, 5}; 
+        int target = 10;
+        //twoSumClosest(nums, target).toString();
+        
+        
+        System.out.println(Arrays.toString(twoSumClosest(nums, target)));
+	}
+	
 //	A better solution:
 //		Time complexity: O(nlogn).
 //		Space complexity: O(1).
 
-		    public int[] twoSumClosest(int[] nums, int target) {
+		    public static int[] twoSumClosest(int[] nums, int target) {
 		        int minDiff = Integer.MAX_VALUE;
-		        if (nums == null || nums.length == 0 || nums.length == 1) {
+		        if (nums  == null || nums.length == 0 || nums.length == 1) {
 		            return null;
 		        }
 		        Arrays.sort(nums);
@@ -50,7 +60,11 @@ public class TwoSumCloseToTarget {
 		                break;
 		            }
 		        }
+		        
+		        System.out.println(out);
 		        return out;
 		    }
+		    
+		    
 
 }
