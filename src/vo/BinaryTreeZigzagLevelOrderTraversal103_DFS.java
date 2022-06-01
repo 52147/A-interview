@@ -29,7 +29,7 @@ import java.util.List;
  * 
  *
  */
-public class BinaryTreeZigzagLevelOrderTraversal103_BFS {
+public class BinaryTreeZigzagLevelOrderTraversal103_DFS {
 	
 	protected void DFS(TreeNode node, int level, List<List<Integer>> results) {
 		
